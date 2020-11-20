@@ -76,6 +76,7 @@ form {
     text-decoration: none;
 }
 
+
 #txtCenterAddress {
     float: left;
     margin-top: 3%;
@@ -90,6 +91,11 @@ form {
     margin-left: auto;
     margin-right: auto;  
     width: 18rem;
+}
+
+#txtCard{
+    color: black;
+    text-decoration: none;
 }
 
 .mainStr {
