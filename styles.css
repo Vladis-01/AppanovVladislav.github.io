@@ -49,29 +49,34 @@
     color:white;
 }
 
+#jumbotron{
+    background-color:white;
+}
+
 form {
-    margin-left: 30%;
-    margin-right: 30%; 
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 .buttons {
     margin-top: 7%;
     margin-bottom: 7%;
-    margin-left: 13%;
+    margin-left: 22%;
     margin-right: 10%; 
 }
 
 .buttons > a > .btn {
     margin-left: 2%;
     margin-right: 2%; 
+    margin-bottom: 4%;
     height: 90px;
-    width: 200px;
-    
+    width:  350px;
 }
 
 #txtСenterName {
     float: left;
     margin-top: 2%;
+    margin-left: 4%;
     color: black;
     text-decoration: none;
 }
@@ -80,17 +85,21 @@ form {
 #txtCenterAddress {
     float: left;
     margin-top: 3%;
+    margin-left: 3%;
 }
 
 .cards {
-    margin-left: 14%;
-    margin-right: 14%; 
+    margin-left: 5%;
+    margin-right: 5%; 
+    margin-bottom: 5%;
 }
 
 .card {
-    margin-left: auto;
-    margin-right: auto;  
     width: 18rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2%;
+    
 }
 
 #txtCard {
