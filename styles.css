@@ -46,7 +46,6 @@
 #rectangleAdministration > h1 {
     margin-left: 20%;
     margin-right: auto; 
-    color:white;
 }
 
 #jumbotron{
@@ -54,8 +53,8 @@
 }
 
 form {
-    margin-left: auto;
-    margin-right: auto; 
+    margin-left: 30%;
+    margin-right: 30%; 
 }
 
 .buttons {
